@@ -1,6 +1,7 @@
-# Template Repo
+# Cantor Google Chrome Policy
 
-Standardized starting point for new repos
+A macOS configuration profile for managing Google Chrome policy.
+Can be installed manually on non-managed Macs nor enrolled in an MDM.
 
 ## Contents
 
