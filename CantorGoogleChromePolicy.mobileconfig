@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.google.Chrome</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ExtensionInstallBlacklist</key>
+								<array>
+									<string>*</string>
+								</array>
+								<key>ExtensionInstallForcelist</key>
+								<array>
+									<string>aomjjhallfgjeglblehebfpbcfeobpgk;https://clients2.google.com/service/update2/crx</string>
+									<string>cjpalhdlnbpafiamejdnhcphjbkeiagm;https://clients2.google.com/service/update2/crx</string>
+								</array>
+								<key>ExtensionInstallWhitelist</key>
+								<array>
+									<string>aomjjhallfgjeglblehebfpbcfeobpgk</string>
+									<string>aeblfdkhhhdcdjpifhhbdiojplfjncoa</string>
+									<string>cjpalhdlnbpafiamejdnhcphjbkeiagm</string>
+								</array>
+								<key>PasswordManagerEnabled</key>
+								<false/>
+								<key>RemoteAccessHostAllowClientPairing</key>
+								<false/>
+								<key>RemoteAccessHostClientDomainList</key>
+								<array>
+									<string>blocked.cantor.cloud</string>
+								</array>
+								<key>RemoteAccessHostDomainList</key>
+								<array>
+									<string>blocked.cantor.cloud</string>
+								</array>
+								<key>RemoteAccessHostFirewallTraversal</key>
+								<false/>
+								<key>RemoteAccessHostRequireCurtain</key>
+								<false/>
+								<key>SafeBrowsingEnabled</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.de007208-bcf9-42fd-be56-e270784ed247.alacarte.customsettings.619003cd-e55c-42cf-b688-343acabdc13b</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>619003cd-e55c-42cf-b688-343acabdc13b</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>You installed this with Lucas.
+
+This keeps Google Chrome safe:
+• Stops people from spying on you
+• Blocks dangerous Chrome extensions
+• Installs the uBlock Origin ad blocker
+• Installs the 1Password extension
+• Disables Google's password manager
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Google Chrome</string>
+	<key>PayloadIdentifier</key>
+	<string>CantorGoogleChromePolicy</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>de007208-bcf9-42fd-be56-e270784ed247</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
