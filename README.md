@@ -1,15 +1,10 @@
 # Cantor Google Chrome Policy
 
+**NOTE: This repo is archived. See [FamilyConfigProfiles](https://github.com/lucascantor/FamilyConfigProfiles) instead.**
+
 A macOS configuration profile for managing Google Chrome policy.
+
 Can be installed manually on non-managed Macs nor enrolled in an MDM.
-
-## Contents
-
-- [.gitignore](./.gitignore)
-- [CODEOWNERS](./CODEOWNERS)
-- [CONTRIBUTING.md](./CONTRIBUTING.md)
-- [LICENSE](./LICENSE)
-- [README.md](./README.md)
 
 ## Contributing Workflow
 
